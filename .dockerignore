@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.pgdata
+alembic/versions/*.pyc
+node_modules
+dist
+build
+.git
